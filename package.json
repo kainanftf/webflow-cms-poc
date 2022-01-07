@@ -1,0 +1,15 @@
+{
+  "name": "webflow_cms_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "webflow-api": "^0.5.4"
+  }
+}
